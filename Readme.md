@@ -1,7 +1,7 @@
-A lire avant la consultation de la page web 
 
-Bienvenue sur ma page gracieusement hébergée par GitHub !
+A LIRE :
 
-Il vous suffit de cliquer sur le lien suivant : https://lo56.github.io/
+Pour consulter le site de BetterMotherFuckingWebsite, merci de cliquer sur le lien : https://lo56.github.io/
+Ce site a été mis à jour avec la pop up javascript demandée.
 
 Bonne visite !
